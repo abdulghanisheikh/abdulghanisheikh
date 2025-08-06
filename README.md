@@ -1,5 +1,7 @@
 # 💫 About Me:
-My name is Abdul Ghani, A full stack web developer based in New Delhi.
+My name is Abdul Ghani, I’m a Web developer with a solid foundation in Java, JavaScript, and front-end development using React.js.
+Currently building skills in backend technologies including Node.js, Express.js, and MongoDB, working towards
+proficiency in the Full Stack Web Development.
 
 
 ## 🌐 Socials:
