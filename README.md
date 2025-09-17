@@ -1,5 +1,5 @@
 # 💫 About Me:
-Web Developer with experience in designing and developing full-stack applications. Proficient in backend<br>technologies such as Node.js, Express, MongoDB, JavaScript and Java, and frontend technologies including React,<br>TailwindCSS, Motion, HTML5, and CSS3, with end-to-end development exposure. Skilled in RESTful API<br>development, authentication and authorization and database integration with MongoDB and I’m eager to work on<br>cutting-edge technologies in web development.
+Web Developer with experience in designing and developing full-stack applications. Proficient in backend<br>technologies such as Node.js, Express, MongoDB, JavaScript and Java, and frontend technologies including React,<br>TailwindCSS, Motion, HTML5, and CSS3, with end-to-end development exposure. Skilled in RESTful API<br>development, JWT Auth and database integration with MongoDB and I’m eager to work on<br>cutting-edge technologies in web development.
 
 
 ## 🌐 Socials:
